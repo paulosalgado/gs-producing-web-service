@@ -1,0 +1,8 @@
+
+# Created by https://www.gitignore.io/api/java-web
+
+### Java-Web ###
+## ignoring target file
+target/
+
+# End of https://www.gitignore.io/api/java-web
